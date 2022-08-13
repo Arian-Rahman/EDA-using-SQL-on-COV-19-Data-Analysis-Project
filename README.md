@@ -17,3 +17,4 @@ Instrucitons on getting the Dataset ready for this analysis :
 I made a `covid` database in Bigquerry and then made deaths and vac tables on it. In order to follow along the project,do the same.
 
     
+ 
